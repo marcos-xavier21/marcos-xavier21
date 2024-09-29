@@ -2,8 +2,7 @@
 
 🎯 **Data Engineer | Big Data Analyst | BI Specialist**
 
-📧 **Email**: [marcosxavier.web@gmail.com](mailto:marcosxavier.web@gmail.com)  
-📞 **Phone**: (+55) 21 9 7705-4506  
+
 🌍 **Location**: Rio de Janeiro, Brazil  
 💼 **LinkedIn**: [Marcos Xavier](https://linkedin.com/in/marcos-s-xavier/)
 
@@ -53,7 +52,7 @@ My journey into the world of data started after years of overcoming personal cha
 
 ## 📫 How to Reach Me
 
-Feel free to reach out via [email](mailto:marcosxavier.web@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/marcos-s-xavier/) to discuss data engineering, big data, or new opportunities.
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/marcos-s-xavier/) to discuss data engineering, big data, or new opportunities.
 
 ---
 
