@@ -28,9 +28,9 @@ My journey into the world of data started after years of overcoming personal cha
 ## 🛠 Experience Highlights
 
 ### UBC - União Brasileira de Compositores (06/2022 - 07/2024)
-- Led the implementation of a Big Data platform, processing over 200GB of data in less than 4 hours using Hadoop and Spark.
+- Led the implementation of a Big Data platform using Hadoop and Spark.
 - Developed and automated data pipelines using Apache Airflow, and created interactive dashboards in Power BI for real-time analytics.
-- Migrated data to AWS and GCP, ensuring security and data governance throughout the process.
+- Migrate data across on-premise platforms, ensuring security and data governance throughout the process.
 
 ### EY - Ernst & Young (10/2021 - 06/2022)
 - Analyzed and integrated large datasets for digital audits using SQL, Alteryx, and Pentaho, improving the accuracy and efficiency of reporting processes.
